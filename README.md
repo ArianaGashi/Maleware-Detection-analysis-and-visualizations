@@ -8,3 +8,6 @@ The assignment is set as part of curriculum for 'Data Preparation and Visualizat
         - Explore a dataset related to network connections and malware detection. Understand the structure, features, and overall characteristics of the data.
    2. **Preprocessing:**
       - Cleanse and preprocess the dataset to ensure data quality. Handle missing values, outliers, and any anomalies that might affect the analysis.
+     
+## Setup
+- Download dataset from: https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis and unzip it into 'dataset' folder placed inside the root folder
